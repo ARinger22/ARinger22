@@ -1,3 +1,4 @@
+<img src="background.png" height="400" width="1000">
 <h1 align="center">Hi 👋, I'm Arpit Kumar Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
