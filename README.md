@@ -31,9 +31,9 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="40" height="40"/> </a> </p>
 
-<p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="200" align="right"/>
+<p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" align="right"/>
 </p>
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="aringer22" height="200" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="aringer22" height="170" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&" alt="aringer22" width="700" /></p>
