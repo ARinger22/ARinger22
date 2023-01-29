@@ -11,7 +11,7 @@
 - 📫 How to reach me **gautamarpit1204@gmail.com**
 
 - ⚡ Fun fact **Always Happy😊😁😉**
-
+<hr>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://instagram.com/arpit.g_0224" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg" alt="arpit.g_0224" height="40" width="50"  /></a>
@@ -19,6 +19,7 @@
 <a href="https://auth.geeksforgeeks.org/user/a_ringer22" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVHUvpMzlUKnxGtZSXcZ1XXZLxfu9hqc8BB77sNTcGjSbiLhLlqRpntUZhk222DQV9UM&usqp=CAU" alt="a_ringer" height="40" width="50" /></a>
 <a href="https://www.interviewbit.com/profile/arpit-gautam_115" target="blank"><img align="center" src="https://i.ytimg.com/vi/4h9S5kvt_ko/hqdefault.jpg" alt="a_ringer" height="40" width="50" /></a></p>
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://techinfini.in/wp-content/uploads/2014/10/Android-PNG-Pic.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="40" height="40"/> </a> 
@@ -31,9 +32,11 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="40" height="40"/> </a> </p>
 
+<hr>
 <p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" align="right"/>
 </p>
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="aringer22" height="170" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&" alt="aringer22" width="700" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&locale=en&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="aringer22" height="170" /></p>
+<hr>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&show_icons=true&theme=dark" alt="aringer22" width="650" /></p>
+<img src="https://img.shields.io/github/followers/aringer22.svg?style=social&amp;label=Follow" style="max-width: 100%;" />
