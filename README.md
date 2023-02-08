@@ -17,7 +17,9 @@
 <a href="https://instagram.com/arpit.g_0224" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg" alt="arpit.g_0224" height="40" width="50"  /></a>
 <a href="https://codeforces.com/profile/a_ringer" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" alt="a_ringer" height="40" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/a_ringer22" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdVHUvpMzlUKnxGtZSXcZ1XXZLxfu9hqc8BB77sNTcGjSbiLhLlqRpntUZhk222DQV9UM&usqp=CAU" alt="a_ringer" height="40" width="50" /></a>
-<a href="https://www.interviewbit.com/profile/arpit-gautam_115" target="blank"><img align="center" src="https://i.ytimg.com/vi/4h9S5kvt_ko/hqdefault.jpg" alt="a_ringer" height="40" width="50" /></a></p>
+<a href="https://www.interviewbit.com/profile/arpit-gautam_115" target="blank"><img align="center" src="https://i.ytimg.com/vi/4h9S5kvt_ko/hqdefault.jpg" alt="a_ringer" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/arpit-kumar-00989322a/" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/hd-linkedin-white-logo-transparent-background-31623962286lx7yrezhte.png" alt="a_ringer" height="40" width="50" /></a>
+</p>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
