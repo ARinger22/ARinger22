@@ -32,7 +32,9 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://c8.alamy.com/comp/2CFJA0C/java-programming-2CFJA0C.jpg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMb1lWBka_6gJ1svLjBi8EgLGX2h5OnumGpg&usqp=CAU" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="40" height="40"/> </a> 
+<a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://riscv.org/wp-content/uploads/2020/10/RISCV_GlobalForum_2020_PromoGraphics_SchedIcon.png" width="40" height="40"/> </a> 
+</p>
 
 <hr>
 <p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" align="right"/>
