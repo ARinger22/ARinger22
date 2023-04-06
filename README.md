@@ -34,6 +34,7 @@
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="40" height="40"/> </a> 
 <a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://riscv.org/wp-content/uploads/2020/10/RISCV_GlobalForum_2020_PromoGraphics_SchedIcon.png" width="40" height="40"/> </a> 
+<a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AnC9xsAtaITrNmTSn5SCQSO8-aO5zJF5fA&usqp=CAU" width="40" height="40"/> </a> 
 </p>
 
 <hr>
