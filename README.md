@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Always Happy😊😁😉**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22" alt="aringer22" /></a> </p>
+<p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onedark" alt="aringer22" /></a> </p>
 
 <hr>
 <h3 align="left">Connect with me:</h3> 
