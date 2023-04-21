@@ -4,13 +4,14 @@
 
 <img align ="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aringer22" alt="aringer22" /></a> </p>
-
 - 🌱 I’m currently learning **App Development**
 
 - 📫 How to reach me **gautamarpit1204@gmail.com**
 
 - ⚡ Fun fact **Always Happy😊😁😉**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22" alt="aringer22" /></a> </p>
+
 <hr>
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -35,6 +36,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/Python-Emblem.jpg" alt="python" width="40" height="40"/> </a> 
 <a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://riscv.org/wp-content/uploads/2020/10/RISCV_GlobalForum_2020_PromoGraphics_SchedIcon.png" width="40" height="40"/> </a> 
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9AnC9xsAtaITrNmTSn5SCQSO8-aO5zJF5fA&usqp=CAU" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://samskalicky.files.wordpress.com/2014/01/heckert_gnu_white.png?w=640" width="40" height="40"/> </a> 
 </p>
 
 <hr>
