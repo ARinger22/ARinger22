@@ -1,4 +1,3 @@
-<img src="background.png" height="400" width="1000">
 <h1 align="center">Hi 👋, I'm Arpit Kumar Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -10,7 +9,7 @@
 
 - ⚡ Fun fact **Always Happy😊😁😉**
 
-<p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onedark" alt="aringer22" /></a> </p>
+<p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onedark&row=2&column=3" alt="aringer22" /></a> </p>
 
 <hr>
 <h3 align="left">Connect with me:</h3> 
