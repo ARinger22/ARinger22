@@ -12,7 +12,7 @@
 <p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onedark&row=2&column=3" alt="aringer22" /></a> </p>
 
 <hr>
-<h3 align="left">Connect with me:</h3> 
+<h3 align="left"> <img src = "https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg" height="20" width="30" /> Connect with me:</h3> 
 <p align="left">
 <a href="https://instagram.com/arpit.g_0224" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266__340.jpg" alt="arpit.g_0224" height="40" width="50"  /></a>
 <a href="https://codeforces.com/profile/a_ringer" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/EkSlLWf2-04k5Y5F_MDLqoXPdo0TyZX3zKdCfsEUDqVB7INUypTOd6AVmkE_X7ej3JuR" alt="a_ringer" height="40" width="50" /></a>
@@ -22,7 +22,7 @@
 </p>
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> <img src="download.jpeg" height="20" width = "30" /> Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://techinfini.in/wp-content/uploads/2014/10/Android-PNG-Pic.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" width="40" height="40"/> </a> 
@@ -38,7 +38,9 @@
 <a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://samskalicky.files.wordpress.com/2014/01/heckert_gnu_white.png?w=640" width="40" height="40"/> </a> 
 </p>
 
+
 <hr>
+<h2> <img src="git.jpg" alt="aringer22" height="30" width="30" /> MY GITHUB STATS : </h1>
 <p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" align="right"/>
 </p>
 
