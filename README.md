@@ -22,7 +22,7 @@
 </p>
 
 <hr>
-<h3 align="left"> <img src="download.jpeg" height="20" width = "30" /> Languages and Tools:</h3>
+<h3 align="left"> <img src="[download.jpeg](https://julialang.org/assets/infra/profile.png)" height="20" width = "30" /> Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://techinfini.in/wp-content/uploads/2014/10/Android-PNG-Pic.png" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" width="40" height="40"/> </a> 
