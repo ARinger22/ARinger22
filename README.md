@@ -53,7 +53,7 @@
 &nbsp 
 <a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://samskalicky.files.wordpress.com/2014/01/heckert_gnu_white.png?w=640" alt="bison" width="40" height="40"/> </a> 
 &nbsp 
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/OTGMIDXiv-t86Wulo9vaHI9bPVoZP870wDxSK-0HZmdSIFrg8eyTEz3-zwNh6w2wNm-ORfVV5zyR0T0sNneuOlcjA9JtARaML3tdB-JqvA" alt="bison" width="40" height="40"/> </a> 
+ <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="jupyter-notebook2.png" alt="bison" width="40" height="40"/> </a> 
 </p>
 
 
