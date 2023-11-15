@@ -3,7 +3,7 @@
 
 <img align ="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **App Development**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **gautamarpit1204@gmail.com**
 
