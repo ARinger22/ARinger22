@@ -27,41 +27,44 @@
 
 <hr>
 <h3 align="left"> <img src="https://i.pinimg.com/736x/57/a3/6a/57a36a7b8656e8e291d39f72452a2829.jpg" height="20" width = "30" /> Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://techinfini.in/wp-content/uploads/2014/10/Android-PNG-Pic.png" alt="android" width="55" height="35"/> </a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="55" height="35"/> </a> 
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://jimbergman.net/wp-content/uploads/android-robot.png" alt="android" width="55" height="30"/> </a>  
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="55" height="30"/> </a> 
 &nbsp 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="55" height="35"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="55" height="30"/> </a> 
 &nbsp 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="55" height="35"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="65" height="45"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="55" height="45"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="55" height="30"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="65" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="55" height="40"/> </a>
  &nbsp 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="50" height="35"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="50" height="30"/> </a> 
   &nbsp 
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" width="55" height="35"/> </a> 
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" width="55" height="30"/> </a> 
  &nbsp 
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs" width="50" height="37"/> </a> 
+ <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs" width="50" height="30"/> </a> 
  &nbsp
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="55" height="35"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="55" height="30"/> </a> 
   &nbsp
- <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png" alt="php" width="50" height="40"/> 
+ <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png" alt="php" width="50" height="35"/> 
 </a> 
   &nbsp
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="php" width="45" height="40"/> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="php" width="45" height="35"/> 
 </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="35"/> </a> 
  <div>
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png" alt="jupitor" width="50" height="40"/> </a> 
+ <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png" alt="jupitor" width="50" height="35"/> </a> 
 &nbsp
-<a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="assembly" width="55" height="35" margin-left="40"/></a>
+<a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="assembly" width="55" height="30" margin-left="40"/></a>
 &nbsp
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" alt="kotlin" width="45" height="35"/> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" alt="kotlin" width="45" height="30"/> 
 </a>
 &nbsp
-<a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perl-programming-language-icon.png" alt="perl" width="45" height="35"/> </a> 
+<a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perl-programming-language-icon.png" alt="perl" width="45" height="30"/> </a> 
 &nbsp
-<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://samskalicky.files.wordpress.com/2014/01/heckert_gnu_white.png?w=640" alt="bison" width="45" height="35"/> 
+<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://samskalicky.files.wordpress.com/2014/01/heckert_gnu_white.png?w=640" alt="bison" width="45" height="30"/> 
 </a> 
+&nbsp
+<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="bison" width="45" height="30"  />
+<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" alt="bison" width="45" height="30"/>
 </div>
 
 </p>
