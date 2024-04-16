@@ -52,7 +52,7 @@
 </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="35"/> </a> 
  <div>
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png" alt="jupitor" width="50" height="35"/> </a> 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png" alt="jupitor" width="50" height="35"/> </a> 
 &nbsp
 <a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="assembly" width="55" height="30" margin-left="40"/></a>
 &nbsp
