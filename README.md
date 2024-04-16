@@ -74,11 +74,11 @@
 <hr>
 <h2> <img src="https://png.pngtree.com/element_our/20190601/ourmid/pngtree-beautiful-trophy-image_1326111.jpg" alt="aringer22" height="30" width="30" /> MY GITHUB STATS : </h1>
 
-<p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" width="250" align="right"/>
+<p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" width="450" align="right"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-fixrepo-7dd470-github-readme-stats-team.vercel.app/api?username=aringer22&include_all_commits=true&count_private=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="aringer22" height="170" />
+  <img src="https://github-readme-stats-git-fixrepo-7dd470-github-readme-stats-team.vercel.app/api?username=aringer22&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="aringer22" height="170" />
 </p>
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&show_icons=true&theme=dark" alt="aringer22" width="650" /></p>
