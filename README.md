@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Always Happy😊😁😉**
 
-<p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onedark&row=2&column=3" alt="aringer22" /></a> </p>
+<p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onestar" alt="aringer22" /></a> </p>
 
 <hr>
 <h3 align="left"> <img src = "https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg" height="20" width="30" /> Connect with me:</h3> 
