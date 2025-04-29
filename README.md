@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arpit Kumar Gautam</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align ="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **AI**
-
 - 📫 How to reach me **gautamarpit1204@gmail.com**
-
 - ⚡ Fun fact **Always Happy😊😁😉**
 
-<p align="left"> <a href="https://github.com/aringer22/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onestar" alt="aringer22" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/aringer22/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onestar&row=2&column=3" alt="aringer22" />
+  </a> 
+</p>
 
 <hr>
 <h3 align="left"> <img src = "https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg" height="20" width="30" /> Connect with me:</h3> 
@@ -83,8 +85,9 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-fixrepo-7dd470-github-readme-stats-team.vercel.app/api?username=aringer22&include_all_commits=true&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="aringer22" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="aringer22" height="170" />
 </p>
+
 <hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&show_icons=true&theme=dark" alt="aringer22" width="650" /></p>
 <img src="https://img.shields.io/github/followers/aringer22.svg?style=social&amp;label=Follow" style="max-width: 100%;" />
