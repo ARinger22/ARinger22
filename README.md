@@ -79,13 +79,14 @@
 
 
 <hr>
-<h2> <img src="https://png.pngtree.com/element_our/20190601/ourmid/pngtree-beautiful-trophy-image_1326111.jpg" alt="aringer22" height="30" width="30" /> MY GITHUB STATS : </h1>
-
-<p id="stat"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" alt="aringer22" height="170" width="350" align="right"/>
-</p>
+<h2>
+  <img src="https://png.pngtree.com/element_our/20190601/ourmid/pngtree-beautiful-trophy-image_1326111.jpg" alt="aringer22" height="30" width="30" /> 
+  MY GITHUB STATS :
+</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" alt="aringer22" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="170"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" height="170"/>
 </p>
 
 <hr>
