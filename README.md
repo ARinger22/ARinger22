@@ -6,11 +6,12 @@
 - 🌱 I’m currently learning **AI**
 - 📫 How to reach me **gautamarpit1204@gmail.com**
 - ⚡ Fun fact **Always Happy😊😁😉**
+- 🌐 Check out my [Personal Portfolio](https://arpit-gautam-iitrpr.vercel.app/)
 
-<p align="left"> 
-  <a href="https://github.com/aringer22/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aringer22&theme=onestar&row=2&column=3" alt="aringer22" />
-  </a> 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.deno.dev/?username=ARinger22&theme=onestar&row=2&column=3" alt="ARinger22" />
+  </a>
 </p>
 
 <hr>
@@ -85,8 +86,8 @@
 </h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aringer22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="170"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=aringer22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARinger22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="170"/>
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ARinger22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" height="170"/>
 </p>
 
 <hr>
