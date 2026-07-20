@@ -45,10 +45,10 @@
 
 <h2> MY GITHUB STATS </h2>
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARinger22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="170"/>
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ARinger22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" height="170"/>
+<p>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARinger22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" />
+  <!-- <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ARinger22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" height="170"/> -->
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&show_icons=true&theme=dark" alt="aringer22"  />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&show_icons=true&theme=dark" alt="aringer22" width="650" /></p>
 <img src="https://img.shields.io/github/followers/aringer22.svg?style=social&amp;label=Follow" style="max-width: 100%;" />
