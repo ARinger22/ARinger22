@@ -14,82 +14,41 @@
   </a>
 </p>
 
-<hr>
-<h3 align="left"> <img src = "https://static.vecteezy.com/system/resources/thumbnails/004/991/764/small/employees-teamwork-connection-logo-free-vector.jpg" height="20" width="30" /> Connect with me:</h3> 
-<p align="left">
-<a href="https://instagram.com/arpit.g_0224" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Instagram/Instagram-Glyph-Color-Logo.wine.svg" alt="insta" height="40" width="50"  /></a>
- &nbsp 
-<a href="https://www.linkedin.com/in/arpit-kumar-00989322a/" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" alt="linkedn" height="27" width="45" /></a>
- &nbsp 
-<a href="https://codeforces.com/profile/a_ringer" target="blank" ><img align="center" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" alt="a_ringer" height="35" width="50" /></a>
- &nbsp 
-<a href="https://auth.geeksforgeeks.org/user/a_ringer22" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/120px-GeeksforGeeks.svg.png?20200909192408" alt="GFG" height="28" width="45" /></a>
- &nbsp 
- <a href="https://leetcode.com/A_Ringer/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="leetcode" height="30" width="50" /></a> 
-</p>
+<h3 align="left"> Languages and Tools </h3>
 
-<hr>
-<h3 align="left"> <img src="https://i.pinimg.com/736x/57/a3/6a/57a36a7b8656e8e291d39f72452a2829.jpg" height="20" width = "30" /> Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://jimbergman.net/wp-content/uploads/android-robot.png" alt="android" width="55" height="30"/> </a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c" width="55" height="30"/> </a> 
-&nbsp 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="55" height="30"/> </a>
-&nbsp
-<a href="https://docs.unity3d.com/Manual/ScriptingSection.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" alt="csharp" width="55" height="30"/> </a> 
-&nbsp 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="55" height="30"/> </a>
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png" alt="ML" width="55" height="30"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="65" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="55" height="40"/> </a>
- &nbsp 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="50" height="30"/> </a> 
-  &nbsp 
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="ReactJs" width="55" height="30"/> </a> 
- &nbsp 
- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="NodeJs" width="50" height="30"/> </a> 
- &nbsp
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" width="55" height="30"/> </a> 
-  &nbsp
- <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png" alt="php" width="50" height="35"/> 
-</a> 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-⛓️-1C3C3A?style=for-the-badge)
+![RAG / Agents](https://img.shields.io/badge/Agentic_AI_%26_RAG-🤖-darkblue?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-🧠-orange?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
- <div>
-  &nbsp
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="php" width="45" height="35"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="35"/> </a> 
-&nbsp
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/103px-Jupyter_logo.svg.png" alt="jupitor" width="50" height="35"/> </a> 
-&nbsp
-<a href="https://riscv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/RISC-V-logo-square.svg/2560px-RISC-V-logo-square.svg.png" alt="assembly" width="55" height="30"/></a>
-&nbsp
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" alt="kotlin" width="45" height="30"/> 
-</a>
-&nbsp
-<a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/perl-programming-language-icon.png" alt="perl" width="45" height="30"/> </a> 
-&nbsp
-<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://samskalicky.files.wordpress.com/2014/01/heckert_gnu_white.png?w=640" alt="bison" width="45" height="30"/> 
-</a> 
-&nbsp
-<a href="https://en.wikipedia.org/wiki/GNU_Bison" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="bison" width="45" height="30"/></a>
-&nbsp
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" alt="solidity" width="55" height="30"/></a>
-&nbsp
-</div>
-
-</p>
-
-
-<hr>
-<h2>
-  <img src="https://png.pngtree.com/element_our/20190601/ourmid/pngtree-beautiful-trophy-image_1326111.jpg" alt="aringer22" height="30" width="30" /> 
-  MY GITHUB STATS :
-</h2>
+<h2> MY GITHUB STATS </h2>
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ARinger22&show_icons=true&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,F84219" height="170"/>
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ARinger22&show_icons=true&locale=en&layout=compact&langs_count=12&bg_color=0,000000,130F40&text_color=D3D3D3" height="170"/>
 </p>
 
-<hr>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aringer22&show_icons=true&theme=dark" alt="aringer22" width="650" /></p>
 <img src="https://img.shields.io/github/followers/aringer22.svg?style=social&amp;label=Follow" style="max-width: 100%;" />
